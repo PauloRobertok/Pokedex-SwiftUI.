@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:/Users/pauloroberto/Desktop/Development/Pokedex-SwiftUI/PokemonTest1-Swift5.5.xcodeproj">
+      location = "self:">
    </FileRef>
 </Workspace>
